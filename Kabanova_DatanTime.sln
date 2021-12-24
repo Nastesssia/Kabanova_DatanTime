@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kabanova_DatanTime", "Kabanova_DatanTime\Kabanova_DatanTime.csproj", "{3367FE28-F234-4E1E-95DF-DB61FF7D8086}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3367FE28-F234-4E1E-95DF-DB61FF7D8086}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3367FE28-F234-4E1E-95DF-DB61FF7D8086}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3367FE28-F234-4E1E-95DF-DB61FF7D8086}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3367FE28-F234-4E1E-95DF-DB61FF7D8086}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {379B1743-6C54-4448-8052-1BBC0735C8E2}
+	EndGlobalSection
+EndGlobal
